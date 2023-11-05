@@ -1,0 +1,16 @@
+body{
+  background-color: rgba(206, 138, 54, 0.822);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+}
+
+b{
+  color: wheat;
+}
+a{
+  text-decoration: none;
+}
+.moods{
+  display: flex;
+  align-items: flex-end;
+}
